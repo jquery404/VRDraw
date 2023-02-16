@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CollabLego.unity
+    guid: 5cc43cfffcdfe4271a25d2284f8d2db6
   m_configObjects: {}
